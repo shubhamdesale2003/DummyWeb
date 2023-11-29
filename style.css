@@ -1,0 +1,23 @@
+.logo{
+    width: 60px;
+    height: 50px;
+   /* mix-blend-mode: color-burn; */
+}
+.img{
+    height: 580px;;
+}
+.button{
+    border: 1px solid gray;
+    padding: 7px 14px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+}
+.button:hover{
+    background: rgb(171, 122, 220);
+   
+}
+.java, .git{
+    height: 460px;
+}
