@@ -3,6 +3,9 @@
     height: 50px;
    /* mix-blend-mode: color-burn; */
 }
+.notes-description{
+  width: 101%;
+}
 .front {
   position: absolute;
   top: 70%;
@@ -10,7 +13,7 @@
   transform: translate(-50%,-50%);
 }
 .front h4{
-  font-size: 5em;
+  font-size: 6em;
   color:red;
   font-family: 'Pacifico', cursive;
   text-align: center;
@@ -40,7 +43,7 @@ h3{
     width: 100%;
     letter-spacing: 2px;
     font-family: 'Pacifico', cursive;
-    font-size: 15px;
+    font-size: 16px;
     text-transform: uppercase;
  }
 .img{
